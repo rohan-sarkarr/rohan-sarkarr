@@ -3,7 +3,7 @@
 <img align="right" alt="Coder GIF" height=370 width=420 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
 <p>
   <em>
-    I am a 2nd Year undergraduate from <a href="https://vitbhopal.ac.in/"><b> Vellore Institute of Technology </b> ,Bhopal</a> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a budding <b>Software Developer</b> and a <b>Data Science</b> 📈 Enthusiast,  who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a platform to <b>grow</b> and excel.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> 
+    I am a 2nd Year undergraduate from <a href="https://vitbhopal.ac.in/"><b> Vellore Institute of Technology </b> ,Bhopal</a> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a budding <b>Software Developer</b> and a <b>Data Science</b> 📈 Enthusiast,  who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a platform to <b>grow</b> and excel.<img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/medal.gif" width=20 height=20> 
   </em>
 </p>
 
