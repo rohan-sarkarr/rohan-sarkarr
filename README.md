@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e885302dd5b07127987527881d213aa549b7f058
 ### Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35>
 
 <img align="right" alt="Coder GIF" height=370 width=420 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
@@ -34,6 +37,7 @@
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-sarkar/)](https://www.linkedin.com/in/rohan-sarkar-ba3915190/) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rohan180301)](https://medium.com/@rohan180301) <!--[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rohansarkarr)](https://twitter.com/rohansarkarr) [![GitHub Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rohan-sarkarr)](https://github.com/rohan-sarkarr)--> [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rohan180301@gmail.com)](mailto:rohan180301@gmail.com)
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> a6c79c2c22d968b666441dd5a3cf8c21a4aaca3f
@@ -57,3 +61,5 @@ Here are some ideas to get you started:
 >>>>>>> 2a52b50844c3101c634736443adfc9859334381b
 =======
 >>>>>>> a6c79c2c22d968b666441dd5a3cf8c21a4aaca3f
+=======
+>>>>>>> e885302dd5b07127987527881d213aa549b7f058
