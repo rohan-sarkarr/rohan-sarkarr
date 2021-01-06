@@ -11,7 +11,7 @@
   <b>Talking about Personal Stuffs:</b>
 
 - 👨🏻‍💻 I’m currently working on <b>Data Science Projects</b>
-- 🌱 I’m currently learning <b>Machine Learning 🤖</b>
+- 🌱 I’m currently learning <b>Deep Learning 🤖</b>
 - 🔭 My interests are with Machine Learning 🤖, Deep Learning 🧠 and Reading Tech Articles 📄, etc
 - 💬 Ask me about <b> Anything and Everything</b> related to Data Science. Happy to help you!!
 - ⚡ Fun fact: Love Working and Learning various upcoming new Tech 💻
@@ -20,14 +20,14 @@
 
 ### Worked with
 
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="python"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html5"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" title="git"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="mysql"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
+<!--<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code> -->
 
 ### Follow me
 
