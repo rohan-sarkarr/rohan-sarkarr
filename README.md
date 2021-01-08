@@ -1,5 +1,5 @@
 ### Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35>
-
+<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rohan-sarkarr)-->
 <img align="right" alt="Coder GIF" height=370 width=420 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
 <p>
   <em>
