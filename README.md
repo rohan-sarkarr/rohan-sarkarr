@@ -29,6 +29,9 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <!--<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code> -->
 
+### GitHub Stats
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-sarkarr&theme=tokyonight&count_private=true&show_icons=true)
+
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-sarkar/)](https://www.linkedin.com/in/rohan-sarkar-ba3915190/) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rohan180301)](https://medium.com/@rohan180301) <!--[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rohansarkarr)](https://twitter.com/rohansarkarr) [![GitHub Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rohan-sarkarr)](https://github.com/rohan-sarkarr)--> [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rohan180301@gmail.com)](mailto:rohan180301@gmail.com)
