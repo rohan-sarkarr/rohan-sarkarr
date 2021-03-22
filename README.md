@@ -1,4 +1,4 @@
-### Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35>
+### Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35> <img src="https://media.tenor.com/images/af7b20c2380754142f3d6d00230f52c5/tenor.gif" width=35 height=35> 
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rohan-sarkarr)-->
 <img align="right" alt="Coder GIF" height=370 width=420 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
 <p>
@@ -18,22 +18,32 @@
 
 </em>
 
-### 💻 Worked with
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=rohan-sarkarr.rohan-sarkarr)-->
 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="flutter"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<hr>
+
+### 💻 Languages, Tools and Technologies Known
+
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="python"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html5"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/css-3.svg" title="css3"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="javascript"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="java"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="flutter"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
-<!--<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code> -->
+
+<hr>
 
 ### 📈 GitHub Stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-sarkarr&theme=tokyonight&count_private=true&show_icons=true)
+
+<hr>
 
 ### Follow me
 
