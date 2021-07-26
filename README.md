@@ -1,9 +1,9 @@
 ### Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35> <img src="https://media.tenor.com/images/af7b20c2380754142f3d6d00230f52c5/tenor.gif" width=35 height=35> 
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rohan-sarkarr)-->
-<img align="right" alt="Coder GIF" height=370 width=420 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
+<img align="right" alt="Coder GIF" height=350 width=380 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://vitbhopal.ac.in/"><b> Vellore Institute of Technology </b> ,Bhopal</a> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a budding <b>Software Developer</b> and a <b>Data Science</b> 📈 Enthusiast,  who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a platform to <b>grow</b> and excel.<img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/medal.gif" width=20 height=20> 
+    I am a 3rd Year undergraduate from <a href="https://vitbhopal.ac.in/"><b> Vellore Institute of Technology </b> ,Bhopal</a> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a budding <b>Software Developer</b> and a <b>Data Science</b> 📈 Enthusiast, <b>obsessed</b> with the idea of <b>improving</b> ownself and I believe in <b>"Strive for Excellence"</b>.<img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/medal.gif" width=20 height=20> 
   </em>
 </p>
 
@@ -20,7 +20,9 @@
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=rohan-sarkarr.rohan-sarkarr)-->
 
+<br>
 <hr>
+
 
 ### 💻 Languages, Tools and Technologies Known
 
@@ -46,6 +48,6 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-sarkar/)](https://www.linkedin.com/in/rohan-sarkar-ba3915190/) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rohan180301)](https://medium.com/@rohan180301) <!--[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rohansarkarr)](https://twitter.com/rohansarkarr) [![GitHub Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rohan-sarkarr)](https://github.com/rohan-sarkarr)--> [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rohan180301@gmail.com)](mailto:rohan180301@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-sarkar/)](https://www.linkedin.com/in/rohan-sarkar-ba3915190/) <!--[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rohan180301)](https://medium.com/@rohan180301) [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rohansarkarr)](https://twitter.com/rohansarkarr) [![GitHub Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rohan-sarkarr)](https://github.com/rohan-sarkarr)--> [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rohan180301@gmail.com)](mailto:rohan180301@gmail.com)
 
 With ❤️ from [Rohan](https://rohansarkar.me)
