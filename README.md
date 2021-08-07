@@ -41,10 +41,10 @@
 
 <hr>
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-sarkarr&theme=tokyonight&count_private=true&show_icons=true)
 
-<hr>
+<hr> -->
 
 ### Follow me
 
