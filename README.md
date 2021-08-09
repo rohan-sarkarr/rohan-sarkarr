@@ -1,21 +1,21 @@
-# Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35> <img src="https://media.tenor.com/images/af7b20c2380754142f3d6d00230f52c5/tenor.gif" width=35 height=35>  ![](https://komarev.com/ghpvc/?username=rohan-sarkarr&label=VIEWS)
-
+# Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35> <img src="https://media.tenor.com/images/af7b20c2380754142f3d6d00230f52c5/tenor.gif" width=35 height=35>
 <img align="right" alt="Coder GIF" height=370 width=390 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
-
 <p>
-    I am a passionate self-taught <b>Developer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a budding <b>Data Science</b> 📈 Professional. I'm an <b>avid learner</b> with the idea of <b>improving</b> every day to become the better version of myself.
+    I am a self-taught <b>Developer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a passionate <b>Data Science Practitioner</b> 💻 📈. 
+<br>I'm an <b>avid learner</b> with the thought of <b>improving</b> every day to become the better version of myself.
     I believe in <b>"Strive for Excellence"</b>.<img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/medal.gif" width=20 height=20> 
 </p>
 
 > __"Data will talk to you 🗣️, if you're willing to listen👂"__
 
 ## 📦 Talking about Personal Stuffs:
-- 👨🏻‍💻 I'm currently working on <b>Data Science</b> Projects💡
-- 📚 I’m currently learning <b>Deep Learning 🧠 & Computer Vision 👁️ </b>
+- 👨🏻‍💻 Currently working on <b>Data Science</b> Projects💡
+- 📚 Learning <b>Deep Learning 🧠 & Computer Vision 👁️ </b>
 - 🔭 My interests are with <b>Deep Learning 🧠 & NLP 🗣️ </b>
 - 💬 Ask me about <b> Anything and Everything</b>. Happy to help you!!
 
-> __"Me and my Machine are Learners 💻 🤭 "__
+> __"Me and my Machine are Good Learners 💻 🤭 "__
+
 ## 💻 Languages and Tools
 
 #### Machine Learning Stack:
