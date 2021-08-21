@@ -3,7 +3,7 @@
 <p>
     I am a self-taught <b>Developer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a passionate <b>Data Science Practitioner</b> 💻 📈. 
 <br>I'm an <b>avid learner</b> with the thought of <b>improving</b> every day to become the better version of myself.
-    I believe in <b>"Strive for Excellence"</b>.<img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/medal.gif" width=20 height=20> 
+<br>I believe in <b>"Strive for Excellence"</b>.<img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/medal.gif" width=20 height=20> 
 </p>
 
 > __"Data will talk to you 🗣️, if you're willing to listen👂"__
@@ -41,7 +41,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="dart"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="c++"></code>
 
-> __"Tools and Technologies develop day-by-day. It is our job to Stay Updated👨🏻‍💻"__
+> __"Tools and Technologies develop day-by-day. It is your job to Stay Updated👨🏻‍💻"__
 <!-- ## 📈 GitHub Stats
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-sarkarr&theme=tokyonight&count_private=true&show_icons=true) -->
 
