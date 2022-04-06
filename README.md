@@ -1,5 +1,5 @@
 # Hi there, I'm Rohan ! <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/hi.gif" width=35 height=35> <img src="https://media.tenor.com/images/af7b20c2380754142f3d6d00230f52c5/tenor.gif" width=35 height=35> <!-- ![](https://komarev.com/ghpvc/?username=rohan-sarkarr&label=Views)-->
-<img align="right" alt="Coder GIF" height=370 width=390 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
+<img align="right" alt="Coder GIF" height=370 width=400 src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/coding.gif" />
 <p>
     I am a self-taught <b>Developer</b> <img src="https://raw.githubusercontent.com/rohan-sarkarr/rohan-sarkarr/master/Assets/developer.gif" width=35 height=25> and a passionate <b>Data Science Practitioner</b> 💻 📈. 
 <br>I'm an <b>avid learner</b> with the thought of <b>improving</b> every day to become the better version of myself.
@@ -10,8 +10,8 @@
 
 ## 📦 Talking about Personal Stuffs:
 - 👨🏻‍💻 Currently working on <b>Data Science</b> Projects💡
-- 📚 Learning <b>Deep Learning 🧠 & Computer Vision 👁️ </b>
-- 🔭 My interests are with <b>Deep Learning 🧠 & NLP 🗣️ </b>
+- 📚 Learning <b>Deep Learning 🧠 </b>& <b> NLP 🗣️ </b>
+- 🔭 My interests are in <b> Machine Learning 🧠 </b> and <b> Mobile Application Development 📱</b>
 - 💬 Ask me about <b> Anything and Everything</b>. Happy to help you!!
 
 > __"Me and my Machine are Good Learners 💻 🤭 "__
